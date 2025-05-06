@@ -54,8 +54,9 @@ Me chamo Leonardo Hilário Ramos da Rocha, tenho 20 anos e sou de Brasília. Est
     alt="Power BI" 
     title="Power BI" 
     width="40px" 
+    height="40px" 
     style="padding-right: 10px;" 
-    src="assets/power-bi.svg"
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
 />
 
 
