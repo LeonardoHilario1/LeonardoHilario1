@@ -2,7 +2,7 @@
 
 **` Cientista de Dados`**
 
-Me chamo Leonardo Hilário Ramos da Rocha, tenho 23 anos e sou natural de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em dados, e pretendo seguir carreira como Cientista de Dados.
+Me chamo Leonardo Hilário Ramos da Rocha, tenho 20 anos e sou de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em dados, e pretendo seguir carreira como Cientista de Dados.
 
 ---
 
