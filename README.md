@@ -38,8 +38,9 @@ Me chamo Leonardo Hilário Ramos da Rocha, tenho 20 anos e sou de Brasília. Est
     title="Matplotlib" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SQL" 
