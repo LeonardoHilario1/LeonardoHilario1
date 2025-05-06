@@ -83,10 +83,4 @@ Me chamo Leonardo Hilário Ramos da Rocha, tenho 20 anos e sou de Brasília. Est
 </p>
 
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHilario1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+  
