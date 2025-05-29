@@ -2,7 +2,7 @@
 
 **` Cientista de Dados`**
 
-Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em dados, e pretendo seguir carreira como Cientista de Dados.
+Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em dados, e pretendo seguir carreira como Cientista de Dados/Analista de Dados.
 
 ---
 
