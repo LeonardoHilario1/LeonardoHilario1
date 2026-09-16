@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Leonardo Hilario
 
-**` Cientista de Dados`**
+**` Desenvolvedor Fullstack`**
 
-Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em dados, tenho conhecimento em Pandas,matplotlib,numpy e pretendo seguir carreira como Cientista de Dados/Analista de Dados.
+Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em Desenvolvimento, tenho conhecimento em javascript,Node Js,React,Pyhton(Django,pandas) e pretendo seguir carreira como Desenvolvedor fullstack.
 
 ---
 
