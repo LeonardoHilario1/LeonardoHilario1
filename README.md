@@ -2,12 +2,36 @@
 
 **` Desenvolvedor Fullstack`**
 
-Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciência da Computação na Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em Desenvolvimento, tenho conhecimento em javascript,Node Js,React,Pyhton(Django,pandas) e pretendo seguir carreira como Desenvolvedor fullstack.
+Me chamo Leonardo Hilário Ramos da Rocha, sou de Brasília. Formado em Ciência da Computação pela Universidade Católica de Brasília (UCB). Tenho grande interesse pela área de tecnologia, especialmente em Desenvolvimento, com experiência em JavaScript, Node.js, React, Python (Django, pandas) e atuo como Desenvolvedor Fullstack.
 
 ---
 
 ### 📚 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -51,15 +75,12 @@ Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciên
 />
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI" 
+    alt="AWS" 
+    title="AWS" 
     width="40px" 
-    height="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/react-is@19.3.0/index.min.js" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
-
-
 
 <br/>
 <br/>
@@ -85,6 +106,3 @@ Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciên
   />
 
 </p>
-
-
-  
