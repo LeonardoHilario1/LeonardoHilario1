@@ -56,7 +56,7 @@ Me chamo Leonardo Hilário Ramos da Rocha,sou de Brasília. Estou cursando Ciên
     width="40px" 
     height="40px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
+    src="https://cdn.jsdelivr.net/npm/react-is@19.3.0/index.min.js" 
 />
 
 
